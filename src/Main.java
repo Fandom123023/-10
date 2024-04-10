@@ -72,6 +72,7 @@ public class Main {
             default:
                 System.out.println("Некорректный номер месяца");
         }
+
     }
     }
 
